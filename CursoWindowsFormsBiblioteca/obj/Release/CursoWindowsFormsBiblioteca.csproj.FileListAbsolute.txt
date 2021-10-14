@@ -1,0 +1,10 @@
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Release\CursoWindowsFormsBiblioteca.dll
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Release\CursoWindowsFormsBiblioteca.pdb
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Release\CursoWindowsFormsBiblioteca.dll
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Release\CursoWindowsFormsBiblioteca.pdb
+E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsFormsBiblioteca\bin\Release\CursoWindowsFormsBiblioteca.dll
+E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsFormsBiblioteca\bin\Release\CursoWindowsFormsBiblioteca.pdb
+E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsFormsBiblioteca\obj\Release\CursoWindowsFormsBiblioteca.csproj.AssemblyReference.cache
+E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsFormsBiblioteca\obj\Release\CursoWindowsFormsBiblioteca.csproj.CoreCompileInputs.cache
+E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsFormsBiblioteca\obj\Release\CursoWindowsFormsBiblioteca.dll
+E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsFormsBiblioteca\obj\Release\CursoWindowsFormsBiblioteca.pdb

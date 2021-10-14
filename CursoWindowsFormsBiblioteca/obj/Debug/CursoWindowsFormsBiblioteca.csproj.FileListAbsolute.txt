@@ -1,0 +1,17 @@
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.dll
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.pdb
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.dll
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.pdb
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csprojAssemblyReference.cache
+E:\Cursos-Apostilas\Alura\.NET\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.dll
+E:\Cursos-Apostilas\Alura\.NET\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.pdb
+E:\Cursos-Apostilas\Alura\.NET\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.AssemblyReference.cache
+E:\Cursos-Apostilas\Alura\.NET\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.CoreCompileInputs.cache
+E:\Cursos-Apostilas\Alura\.NET\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.dll
+E:\Cursos-Apostilas\Alura\.NET\Windows Forms\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.pdb
+E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.dll
+E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.pdb
+E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.AssemblyReference.cache
+E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.CoreCompileInputs.cache
+E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.dll
+E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.pdb
