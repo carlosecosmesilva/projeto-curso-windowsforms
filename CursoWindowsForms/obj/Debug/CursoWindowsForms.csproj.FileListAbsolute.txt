@@ -81,7 +81,10 @@ E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsForms\obj\Debug\CursoWin
 E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Properties.Resources.resources
 E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.GenerateResource.cache
 E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CoreCompileInputs.cache
-E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CopyComplete
 E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
 E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
 E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Login.resources
+E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Menu_Flutuante.resources
+E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_MouseEventos.resources
+E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsForms\bin\Debug\MaterialSkin.dll
+E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_CadastroCliente_UC.resources

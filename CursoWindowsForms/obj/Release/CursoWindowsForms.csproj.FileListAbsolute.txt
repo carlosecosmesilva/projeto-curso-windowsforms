@@ -47,3 +47,7 @@ E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsForms\obj\Release\CursoW
 E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsForms\obj\Release\CursoWindowsForms.csproj.CopyComplete
 E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsForms\obj\Release\CursoWindowsForms.exe
 E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsForms\obj\Release\CursoWindowsForms.pdb
+E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsForms\bin\Release\MaterialSkin.dll
+E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_CadastroCliente_UC.resources
+E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_Menu_Flutuante.resources
+E:\GitHub\GitHub\projeto-curso-windowsforms\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_MouseEventos.resources

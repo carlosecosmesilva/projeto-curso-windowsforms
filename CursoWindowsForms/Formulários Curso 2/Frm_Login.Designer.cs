@@ -100,7 +100,7 @@ namespace CursoWindowsForms
             this.Txt_Login.Location = new System.Drawing.Point(122, 33);
             this.Txt_Login.Name = "Txt_Login";
             this.Txt_Login.Size = new System.Drawing.Size(151, 20);
-            this.Txt_Login.TabIndex = 6;
+            this.Txt_Login.TabIndex = 1;
             // 
             // Frm_Login
             // 

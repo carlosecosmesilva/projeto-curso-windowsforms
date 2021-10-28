@@ -20,6 +20,7 @@ namespace CursoWindowsForms
         int ControleValidaSenha = 0;
         int ControleValidaCPF2 = 0;
         int ControleArquivoImagem = 0;
+        int ControleCadastroClientes = 0;
 
         public Frm_Principal_Menu_UC()
         {
@@ -29,7 +30,7 @@ namespace CursoWindowsForms
             apagarAbaToolStripMenuItem.Enabled = false;
             abrirImagemToolStripMenuItem.Enabled = false;
             desconectarToolStripMenuItem.Enabled = false;
-
+            cadastrosToolStripMenuItem.Enabled = false;
         }
 
         private void validaCPFToolStripMenuItem_Click(object sender, EventArgs e)
@@ -119,7 +120,7 @@ namespace CursoWindowsForms
         {
             if (!(Tbc_Aplicacoes.SelectedTab == null))
             {
-                Tbc_Aplicacoes.TabPages.Remove(Tbc_Aplicacoes.SelectedTab);
+                ApagaAba(Tbc_Aplicacoes.SelectedTab);
             }
         }
 
@@ -163,6 +164,7 @@ namespace CursoWindowsForms
                     apagarAbaToolStripMenuItem.Enabled = true;
                     abrirImagemToolStripMenuItem.Enabled = true;
                     desconectarToolStripMenuItem.Enabled = true;
+                    cadastrosToolStripMenuItem.Enabled = true;
 
                     MessageBox.Show("Bem vindo " + login + "!", "Mensagem", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
@@ -185,7 +187,7 @@ namespace CursoWindowsForms
                 
                 for (int i = Tbc_Aplicacoes.TabPages.Count - 1; i >= 0; i += -1)
                 {
-                    Tbc_Aplicacoes.TabPages.Remove(Tbc_Aplicacoes.TabPages[i]);
+                    ApagaAba(Tbc_Aplicacoes.TabPages[i]);
                 }
 
                 novoToolStripMenuItem.Enabled = false;
@@ -193,8 +195,39 @@ namespace CursoWindowsForms
                 abrirImagemToolStripMenuItem.Enabled = false;
                 conectarToolStripMenuItem.Enabled = true;
                 desconectarToolStripMenuItem.Enabled = false;
+                cadastrosToolStripMenuItem.Enabled = false;
             }
 
+        }
+
+        private void clientesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if(ControleCadastroClientes == 0)
+            {
+                ControleCadastroClientes += 1;
+                Frm_CadastroCliente_UC U = new Frm_CadastroCliente_UC();
+                U.Dock = DockStyle.Fill;
+                TabPage TB = new TabPage();
+                TB.Name = "Cadastro de Clientes ";
+                TB.Text = "Cadastro de Clientes ";
+                TB.ImageIndex = 7;
+                TB.Controls.Add(U);
+                Tbc_Aplicacoes.TabPages.Add(TB);
+            }
+            else
+            {
+                MessageBox.Show("Não é possivel cadastrar mais de um cliente por vez!", "Banco ByteBank", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+        }
+
+        void ApagaAba(TabPage TB)
+        {
+            if(TB.Name == "Cadastro de Clientes")
+            {
+                ControleCadastroClientes = 0;
+            }
+
+            Tbc_Aplicacoes.TabPages.Remove(TB);
         }
     }
 }
